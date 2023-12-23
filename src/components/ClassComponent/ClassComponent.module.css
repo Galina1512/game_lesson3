@@ -30,7 +30,7 @@
     width: 100px;
 }
 
-.btn .btn_new {
+.btn, .btn_new {
     padding: 5px 10px;
     background-color: transparent;
     color: white;
